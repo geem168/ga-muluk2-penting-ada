@@ -162,14 +162,14 @@ include 'dbconnect.php';
 	<!-- main-slider -->
 		<ul id="demo1">
 			<li>
-				<img src="images/slide.png" alt="" />
+				<img src="images/gambar1.png" alt="" />
 			</li>
 			<li>
-				<img src="images/slide 2.png" alt="" />
+				<img src="images/gambar2.png" alt="" />
 			</li>
 			
 			<li>
-				<img src="images/slide 1.png" alt="" />
+				<img src="images/gambar3.png" alt="" />
 			</li>
 		</ul>
 	<!-- //main-slider -->
