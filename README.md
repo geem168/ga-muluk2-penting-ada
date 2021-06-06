@@ -73,6 +73,11 @@ Activity Diagram atau Diagram aktivitas adalah bentuk visual dari alur kerja yan
 ![](https://github.com/geem168/ga-muluk2-penting-ada/blob/49934e5770a1a7eb5a9d8502155d1252494fa1a3/activity%20diagram.jpg)
 
 * ## **Class Diagram**
+
+**Class diagram** adalah jenis diagram struktur statis dalam UML yang menggambarkan struktur sistem dengan menunjukkan sistem class, atributnya, metode, dan hubungan antar objek.
+
+![](https://github.com/geem168/ga-muluk2-penting-ada/blob/90c841e450d15319e8e0074012c8d6020f03542c/class%20diagram.png)
+
 * ## **Entity Relationship Diagram**
 * ## **Arsitektur Diagram**
 
@@ -148,4 +153,3 @@ CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungs
 2. Mencakup seluruh warga IPB diseluruh jurusan
 3. Pengembangan berbasis Mobile
 4. Penambahan Fitur Poin Belanja
-
