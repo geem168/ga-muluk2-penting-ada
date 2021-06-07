@@ -79,9 +79,14 @@ Activity Diagram atau Diagram aktivitas adalah bentuk visual dari alur kerja yan
 ![](https://github.com/geem168/ga-muluk2-penting-ada/blob/90c841e450d15319e8e0074012c8d6020f03542c/class%20diagram.png)
 
 * ## **Entity Relationship Diagram**
+
+**ERD atau Entity Relationship Diagram** adalah suatu bentuk diagram yang menjelaskan hubungan antar objek-objek data yang mempunyai hubungan antar relasi. ERD digunakan untuk menyusun struktur data dan hubungan antar data, dan untuk menggambarkannya digunakan notasi, simbol, bagan, dan lain sebagainya.
+
+![](https://github.com/geem168/ga-muluk2-penting-ada/blob/083fdb0e457d63ac6965f148f31331559ceffbdb/erd.png)
+
 * ## **Arsitektur Diagram**
 
-![](https://github.com/geem168/ga-muluk2-penting-ada/blob/main/ArsitekturDiagramBelibukugue.jpg)
+![](https://github.com/geem168/ga-muluk2-penting-ada/blob/121d9c3460116e552e26190c312cda7e029cbf96/ArsitekturDiagramBelibukugue.jpg)
 
 Bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip , analisir dan komponen termasuk cara kerja maupun petunjuk penggunaannya. 
 * **Berikut adalah ilustrasi arsitektur diagram Belibukugue :** [Diagram arsitektur Belibukugue](https://trello-attachments.s3.amazonaws.com/608ad2c6e744136d674e26ed/1058x626/4bda34c08c468daeb2d26f4387d4d620/ArsitekturDiagramBelibukugue.jpg)
