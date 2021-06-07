@@ -116,7 +116,7 @@ Pembeli juga dapat menambahkan komentar agar menjadi saran terbaik untuk pihak "
 
 ![](https://github.com/geem168/ga-muluk2-penting-ada/blob/geem168-wikiimg/wiki%20img/komentar.png)
 
-5. Hashing Kode order
+5. Kode order
 
 Pembeli mendapat kode order yang tidak sama agar metode pembayaran dapat dilakukan dengan benar.
 
