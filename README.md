@@ -153,6 +153,18 @@ CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungs
 ![](https://github.com/geem168/ga-muluk2-penting-ada/blob/afd5e9a42f0cb90b6b1e14bcd5db5ccb1f26f220/6.png)
 ![](https://github.com/geem168/ga-muluk2-penting-ada/blob/afd5e9a42f0cb90b6b1e14bcd5db5ccb1f26f220/7.png)
 
+* ## **Testing Case**
+
+| Positive Case | Negative Case |
+| ------------- | ------------- | 
+| 1. Pengguna mengklik tombol daftar dari halaman utama | 1.Seorang pengguna mendaftar dengan kredensial yang tidak valid |
+| 2. Seorang pengguna memasukan rincian  pendaftaran dalam format yang benar , pendaftaran berhasil. | 2. Seorang pengguna memasukan format password yang salah | 
+|3. lalu pengguna login untuk membeli buku bekas | 3. Opsi yang termasuk dalam kasus ini : Login salah + kata sandi salah atau login benar + kata sandi yang salah. | 
+| 4. User dapat memberikan ulasan tentang produk di kolom komentar. | |
+| 5. Terdapat 2 level user , yaitu Admin dan Pembeli. Kedua level tersebut memiliki hak yang berbeda. | |
+| 6. Pengguna dapat mencari produk yang diinginkan  dengan mengetik kata yang ingin kita cari di kotak pencarian. | |
+| 7. Dapat mengubah password kita menjadi angka dan huruf secara random agar admin tidak mengetahui password kita | |
+
 * ## **Saran Pengembangan Selanjutnya**
 1. Tracking System 
 2. Mencakup seluruh warga IPB diseluruh jurusan
